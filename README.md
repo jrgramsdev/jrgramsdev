@@ -17,7 +17,10 @@ day to day, with tests and code review as the check on what they produce.
 - **[Content Dashboard](https://github.com/jrgramsdev/content-dashboard)** — a Next.js 15 +
   React 19 + TypeScript content-planning dashboard: metrics, calendar, posts, and templates
   across seven statically-rendered views.
+- **[Levels Refresh](https://github.com/jrgramsdev/levels-refresh)** — a custom Shopify
+  Online Store 2.0 theme: hand-built Liquid with a cart drawer, predictive search, a
+  client-side variant picker, and a 21+ age gate.
 
-**Stack** — PHP/Laravel · Vue 3 + Pinia · **Next.js + React** · Node/Express · TypeScript · Tailwind · SQLite/Postgres · Docker
+**Stack** — PHP/Laravel · Vue 3 + Pinia · **Next.js + React** · Node/Express · Shopify/Liquid · TypeScript · Tailwind · SQLite/Postgres · Docker
 
 📫 [joshuagrams.com](https://joshuagrams.com) · jrgramsdev@gmail.com
