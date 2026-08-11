@@ -14,7 +14,10 @@ day to day, with tests and code review as the check on what they produce.
 - **[TeslaPulse](https://github.com/jrgramsdev/teslapulse)** — a Node/Express/SQLite dashboard
   tracking Tesla's operating signals: live Supercharger data, charging-desert analysis, and a
   composite execution-velocity score, refreshed daily.
+- **[Content Dashboard](https://github.com/jrgramsdev/content-dashboard)** — a Next.js 15 +
+  React 19 + TypeScript content-planning dashboard: metrics, calendar, posts, and templates
+  across seven statically-rendered views.
 
-**Stack** — PHP/Laravel, Vue 3 + Pinia, Node/Express, JavaScript/TypeScript, Tailwind, SQLite/Postgres, Docker
+**Stack** — PHP/Laravel · Vue 3 + Pinia · **Next.js + React** · Node/Express · TypeScript · Tailwind · SQLite/Postgres · Docker
 
 📫 [joshuagrams.com](https://joshuagrams.com) · jrgramsdev@gmail.com
