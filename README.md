@@ -3,7 +3,7 @@
 E-commerce manager who builds the software behind the stores.
 
 Twelve years running B2B wholesale and DTC businesses on **Shopify, BigCommerce, and WooCommerce**,
-including a DTC brand I built to $1.4M+ in sales. I currently run four Shopify storefronts and a
+including a DTC brand I built to 7 figures. I currently run four Shopify storefronts and a
 10,000-SKU catalog, and I write the theme code, integrations, and automation myself. I work with AI
 coding tools every day, with tests and code review as the check on what they produce.
 
